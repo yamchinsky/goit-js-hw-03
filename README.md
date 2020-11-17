@@ -1,2 +1,2 @@
 # goit-js-hw-03
- hw№3
+ hw3
